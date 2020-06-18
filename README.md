@@ -5,8 +5,8 @@ install procedure:
 clone or download then
 pip3 install torchvision-0.6.0a0+b68adcf-cp37-cp37m-linux_armv7l.whl
 
-for pytorch v1.5 armv7l and more
-https://forums.developer.nvidia.com/t/pytorch-for-jetson-nano-version-1-5-0-now-available/72048
+for pytorch v1.5 armv7l 
+https://github.com/maltequast/pytorch_arm_whl
 
 for more old torchvision builds
 https://github.com/nmilosev/pytorch-arm-builds
