@@ -14,5 +14,4 @@ https://github.com/nmilosev/pytorch-arm-builds
 buld process
 https://nmilosev.svbtle.com/compling-arm-stuff-without-an-arm-board-build-pytorch-for-the-raspberry-pi
 
-
-**¯\\_(ツ)_/¯**
+**¯\\\_(ツ)_/¯**
